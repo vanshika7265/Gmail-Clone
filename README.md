@@ -6,13 +6,13 @@ A feature-rich **Gmail Clone** built using **React.js**, **Redux Toolkit**, **Ta
 
 ##  Features
 
-- 📥 **Inbox Layout** with Email List (Mock Data)  
-- 📧 **Individual Mail View** (Static Data)  
-- 🧭 **Sidebar Navigation** (Inbox, Sent, Drafts, etc.)  
-- 🔍 **Search Bar** (UI only)  
-- 🔑 **User Authentication** with Firebase Auth (Login & Signup)
-- 📱 **Responsive Design** with Tailwind CSS  
-- 🔄 **State Management** using Redux Toolkit
+-  **Inbox Layout** with Email List (Mock Data)  
+-  **Individual Mail View** (Static Data)  
+-  **Sidebar Navigation** (Inbox, Sent, Drafts, etc.)  
+-  **Search Bar** (UI only)  
+-  **User Authentication** with Firebase Auth (Login & Signup)
+-  **Responsive Design** with Tailwind CSS  
+-  **State Management** using Redux Toolkit
 
 ---
 
