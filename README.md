@@ -1,4 +1,4 @@
-# 📬 Gmail Clone
+# 📬 MailSync
 
 A feature-rich **Gmail Clone** built using **React.js**, **Redux Toolkit**, **Tailwind CSS**, **ShadCN UI**, and **Firebase Authentication**. This clone mimics Gmail's UI and integrates **Firebase Auth** for user authentication.
 
